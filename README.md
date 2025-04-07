@@ -61,7 +61,7 @@ The project consists of the following files:
 
 ### Requirements
 
-- Python 3.10
+- Python 3.13
 - Python's `sympy` package
 - Python's `pandas` package
 
