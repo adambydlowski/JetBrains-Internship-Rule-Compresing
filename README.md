@@ -66,5 +66,5 @@ The project consists of the following files:
 - Python's `pandas` package
 
 ### Usage
-To run the program specify your desired results in main.py and then simply run it.
+To run the program specify your desired results in `main.py` and then simply run it.
 
